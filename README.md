@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TheStudBoi
+- 👋 Hi, I’m @Jai-Kulkarni1905
 - 👀 I’m interested in Data Science and Business Analytics
 - 🌱 I’m currently pursuing my Bachelor's degree in Indian Institute of Technology Roorkee
 - 💞️ I’m looking to collaborate on machine learning and python projects.
